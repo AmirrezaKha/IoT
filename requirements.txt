@@ -1,0 +1,4 @@
+pyspark
+xgboost
+fastapi[all]
+boto3

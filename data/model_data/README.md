@@ -1,0 +1,1 @@
+This folder is used for storing Parquet-based Iceberg table data. Managed by Spark + MinIO.

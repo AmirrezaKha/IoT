@@ -1,0 +1,1 @@
+# Script to read from online source and write to Iceberg table via Spark and MinIO
